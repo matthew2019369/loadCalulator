@@ -1,4 +1,6 @@
 # loadCalulator
 loadCalulator
 
-this is a load Calculator using simple interest formula
+This is a load Calculator using simple interest formula, deployed on heroku platform
+
+https://bloc-marks-40797.herokuapp.com/ 
